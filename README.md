@@ -13,7 +13,7 @@ Projet Perso React
 * Boite à Recette (_à Venir_)
 * Moteur de Recherche de Films (_à Venir_)
 * Stats Démographique via World Population API (_à Venir_)
-* Boite à Post
+* Boite à Post (_à Venir_)
 
 ---
 
