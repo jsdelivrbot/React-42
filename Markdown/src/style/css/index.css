@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400');
+
+.container {
+  width: 97.5%;
+  margin: 30px auto;
+  padding-bottom: 20px;
+  border: 2px solid rgba(230, 230, 230, .75);
+  background-color: rgba(230, 230, 230, .1);
+  border-radius: 5px;
+}
+
+.title {
+  font-family: 'Source Sans Pro';
+  font-size: 75px;
+  padding-bottom: 25px;
+  text-align: center;
+  font-weight: 300;
+}
+
+.form-control {
+  font-family: 'Source Sans Pro';
+  font-weight: 300;
+  font-size: 20px;
+}
+
+.form-control-bis {
+  font-family: 'Source Sans Pro';
+  font-weight: 300;
+  font-size: 25px;
+}
