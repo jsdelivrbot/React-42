@@ -1,4 +1,4 @@
-# Générateur de Markdown
+# Editeur de Markdown
 
 Permet de prévisualiser le rendu d'un code markdown en live, le générateur intègre une sauvegarde des modifications dans le cache. 
 
