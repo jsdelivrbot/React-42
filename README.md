@@ -7,7 +7,7 @@ Projet Perso React
 # Détails des Projets
 
 * Todo List
-* Générateur de Mardown
+* Editeur de Mardown
 * Générateur de Citations
 * Tchatche Box
 * Boite à Recette (_à Venir_)
