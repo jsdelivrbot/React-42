@@ -10,7 +10,7 @@ Projet Perso React
 * Editeur de Mardown
 * Générateur de Citations
 * Tchatche Box
-* Boite à Recette (_En Cours de Réalisation_)
+* Boite à Recette
 * Moteur de Recherche de Films (_à Venir_)
 * Stats Démographique via World Population API (_à Venir_)
 * Boite à Post (_à Venir_)
