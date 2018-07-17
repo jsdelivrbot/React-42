@@ -11,7 +11,7 @@ Projet Perso React
 * Générateur de Citations
 * Tchatche Box
 * Boite à Recette
-* Moteur de Recherche de Films (_à Venir_)
+* React Movie (_En Cours de Réalisation_)
 * Stats Démographique via World Population API (_à Venir_)
 * Boite à Post (_à Venir_)
 
