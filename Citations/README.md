@@ -3,6 +3,7 @@
 Petite app qui génère une citation de façon aléatoire.
 
 ![React-Cit-1](https://preview.ibb.co/j8St98/Deepin_Capture_cran_20180714163841.png)
+
 ![React-Cit-2](https://preview.ibb.co/cosh2T/Deepin_Capture_cran_20180714163935.png)
 
 ---
