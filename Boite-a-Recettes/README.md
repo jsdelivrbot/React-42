@@ -2,11 +2,11 @@
 
 Petit site type Marmiton, dans lequel il est possible de partager, modifier ou supprimer ces recettes.
 
-![React-Rb-1](https://preview.ibb.co/bGjAuJ/Deepin_Capture_cran_20180716162716.png)
+<center>![React-Rb-1](https://preview.ibb.co/bGjAuJ/Deepin_Capture_cran_20180716162716.png)
 
 ![React-Rb-2](https://preview.ibb.co/dbzzod/Deepin_Capture_cran_20180716162638.png)
 
-![React-Rb-3](https://preview.ibb.co/bJ33EJ/Deepin_Capture_cran_20180716162700.png)
+![React-Rb-3](https://preview.ibb.co/bJ33EJ/Deepin_Capture_cran_20180716162700.png)</center>
 
 ---
 
@@ -21,7 +21,7 @@ Petit site type Marmiton, dans lequel il est possible de partager, modifier ou s
     * index.html
 * ./src/
     * index.js
-    * bdd.js -> _A modifier en ajouter votre BDD Firebase_
+    * bdd.js -> _A modifier en ajoutant votre BDD Firebase_
     * ./css/
         * 404.png
         * index.css
@@ -58,4 +58,4 @@ Aucune
 
 **Editeur de Code :** Visual Studio Code
 
-**Système D'Exploitation:** Deepin 15.6
+**Système d'Exploitation:** Deepin 15.6
