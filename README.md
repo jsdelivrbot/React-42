@@ -6,6 +6,7 @@
 * Tchatche Box
 * Boite à Recette
 * React Trailer
+* IMC (Indice de Masse Corporelle)
 
 ---
 
