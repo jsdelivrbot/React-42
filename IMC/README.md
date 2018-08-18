@@ -34,7 +34,7 @@ Petite App permettant de calculer son IMC.
 
 Laurent Echeverria
 
-_Réalisé via Kirupa_
+_Réalisé via Udemy_
 
 ---
 
