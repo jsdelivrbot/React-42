@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i');
+
+body {
+    background-color: rgba(245,245,245, .3);
+}
+
+.search_bar {
+    margin: 50px auto;
+}
+
+.form-control {
+    font-family: 'Source Sans Pro';
+    font-size: 30px;
+    font-weight: 300;
+    border: 2px solid #c1def6;
+    color: #b2b2b2;
+    opacity: .75;
+}
+
+.btn-secondary {
+    font-family: 'Source Sans Pro';
+    font-size: 30px;
+    font-weight: 300;
+    background-color: transparent;
+    opacity: .75;
+    border: 2px solid #c1def6;
+}
+
+.btn-secondary:hover {
+    opacity: 1;
+    background-color: rgba(245,245,245, .5);
+    border: 2px solid #c1def6;
+}
+
+.form-control:hover {
+    border: 2px solid #c1def6;
+    color: #b2b2b2;
+    opacity: 1;
+}
+
+h1 {
+    font-family: 'Source Sans Pro';
+    font-size: 50px;
+    font-weight: 300;
+    text-align: center;
+    padding: 30px;
+    letter-spacing: 0.625px;
+}
+
+.main_title {
+    font-size: 75px;
+    padding-top: 75px;
+}
+
+p {
+    font-family: 'Source Sans Pro';
+    font-size: 22px;
+    font-weight: 300;
+    text-indent: 10%;
+    text-align: left;
+    margin: 15px;
+    letter-spacing: 1.25px;
+    line-height: 35px;
+}
+
+.title_list_item {
+    padding-top: 15px;
+    text-align: center;
+    margin: 0 auto;
+    font-family: 'Source Sans Pro';
+    font-size: 20px;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+
+.list-group-item {
+    opacity: .7;
+}
+
+.list-group-item:hover {
+    opacity: 1;
+    cursor: pointer;
+}
+
+.media-object {
+    padding-top: 5px;
+}
+
+li:hover {
+    background-color: rgb(240,240,240);
+}
