@@ -1,19 +1,11 @@
-# React
-
-Projet Perso React
-
----
-
-# Détails des Projets
+# Détails des Projets Reacts
 
 * Todo List
 * Editeur de Mardown
 * Générateur de Citations
 * Tchatche Box
 * Boite à Recette
-* React Movie (_En Cours de Réalisation_)
-* Stats Démographique via World Population API (_à Venir_)
-* Boite à Post (_à Venir_)
+* React Trailer
 
 ---
 
