@@ -1,7 +1,7 @@
 # Détails des Projets Reacts
 
 * Todo List
-* Editeur de Mardown
+* Editeur de Markdown
 * Générateur de Citations
 * Tchatche Box
 * Boite à Recette
