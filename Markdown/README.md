@@ -54,4 +54,8 @@ Aucune
 
 **Editeur de Code :** Visual Studio Code
 
+**Version de Node :** 10.9.0
+
+**Version de Npm :** 6.2.0
+
 **Système D'Exploitation:** Deepin 15.6
